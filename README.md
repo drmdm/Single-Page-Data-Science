@@ -5,17 +5,17 @@ This page details some short data science projects that fit in one Jupyter Noteb
 Some are adapted or expanded from courses that I have taken, some are small pieces of work I have done during my own work or for others and some are just for fun!
 
 ## Index
-1 [Original Six Ice Hockey](../Original_Six.ipynb)  
-2 [Ceramic Kiln Sensor Data ](../Kiln_Insulation.ipynb)
+1 [Original Six Ice Hockey](./Original_Six.ipynb)  
+2 [Ceramic Kiln Sensor Data ](./Kiln_Insulation.ipynb)
 
-## [Original Six Ice Hockey](../Original_Six.ipynb)
+## [Original Six Ice Hockey](./Original_Six.ipynb)
 - Simple Data e xtraction from Wikipedia using Pandas
 - Data cleaning and wrangling and combining non-uniform datasets.
 - Clean visualisation
 
 This project is an extension of the [Applied Data Science with Python Specialisation](../../../Applied-Data-Science-with-Python) Course 2 final project.
 
-## [Ceramic Kiln Sensor Data ](../Kiln_Insulation.ipynb)
+## [Ceramic Kiln Sensor Data ](./Kiln_Insulation.ipynb)
 - Time series analysis
 - Industrial project
 -
