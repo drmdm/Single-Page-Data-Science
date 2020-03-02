@@ -6,7 +6,7 @@ Some are adapted or expanded from courses that I have taken, some are small piec
 
 ## Index
 1 [Original Six Ice Hockey](./Original_Six.ipynb)  
-2 [UK Traffic Accidents](./UK_Accidents_Classifier.ipynb) 
+2 [UK Traffic Accidents](./UK_Accidents_Classifier.ipynb)   
 3 [Ceramic Kiln Sensor Data ](./Kiln_Insulation.ipynb)
 
 ## [Original Six Ice Hockey](./Original_Six.ipynb)
