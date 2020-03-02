@@ -6,7 +6,8 @@ Some are adapted or expanded from courses that I have taken, some are small piec
 
 ## Index
 1 [Original Six Ice Hockey](./Original_Six.ipynb)  
-2 [Ceramic Kiln Sensor Data ](./Kiln_Insulation.ipynb)
+2 [UK Traffic Accidents](./UK_Accidents_Classifier.ipynb) 
+3 [Ceramic Kiln Sensor Data ](./Kiln_Insulation.ipynb)
 
 ## [Original Six Ice Hockey](./Original_Six.ipynb)
 - Data extraction from Wikipedia using Pandas
@@ -15,6 +16,12 @@ Some are adapted or expanded from courses that I have taken, some are small piec
 - Time series prediction
 
 This project is an extension of the [Applied Data Science with Python Specialisation](../../../Applied-Data-Science-with-Python) Course 2 final project with some added time series analysis and prediction for the next seasons final points. 
+
+## [UK Traffic Accidents](./UK_Accidents_Classifier.ipynb)
+- Data cleaning a larger dataset
+- Machine learning and evaluation using gradient boosting and random forests. 
+
+This project looks at UK traffic accident data between 2005 and 2017 and attempts to predict the type of accident (fatal, serious or slight) given the variables leading up to the accident.
 
 ## [Ceramic Kiln Sensor Data ](./Kiln_Insulation.ipynb)
 - Time series analysis
