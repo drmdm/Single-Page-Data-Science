@@ -5,11 +5,11 @@ This page details some short data science projects that fit in one Jupyter Noteb
 Some are adapted or expanded from courses that I have taken, some are small pieces of work I have done during my own work or for others and some are just for fun!
 
 ## Index
-1 [Original Six Ice Hockey](./Original_Six.ipynb)  
+1 [Original Six Ice Hockey](./OriginalSix.ipynb)  
 2 [UK Traffic Accidents](./UK_Accidents_Classifier.ipynb)   
 3 [Ceramic Kiln Sensor Data ](./Kiln_Insulation.ipynb)
 
-## [Original Six Ice Hockey](./Original_Six.ipynb)
+## [Original Six Ice Hockey](./OriginalSix.ipynb)
 - Data extraction from Wikipedia using Pandas
 - Data cleaning and wrangling and combining non-uniform datasets.
 - Clean visualisation
